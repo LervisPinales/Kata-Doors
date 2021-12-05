@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataDoor", "KataDoor\KataDoor.csproj", "{67F47B3B-E14E-46D9-BCE6-1BB9BF8AFF67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDoorTest", "KDoorTest\KDoorTest.csproj", "{ADD8FFB3-C5E7-4D54-90F6-0D8A63681D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F47B3B-E14E-46D9-BCE6-1BB9BF8AFF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F47B3B-E14E-46D9-BCE6-1BB9BF8AFF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F47B3B-E14E-46D9-BCE6-1BB9BF8AFF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F47B3B-E14E-46D9-BCE6-1BB9BF8AFF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD8FFB3-C5E7-4D54-90F6-0D8A63681D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD8FFB3-C5E7-4D54-90F6-0D8A63681D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD8FFB3-C5E7-4D54-90F6-0D8A63681D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD8FFB3-C5E7-4D54-90F6-0D8A63681D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91B8B69-25B4-44B1-A181-F2825C44ADDB}
+	EndGlobalSection
+EndGlobal

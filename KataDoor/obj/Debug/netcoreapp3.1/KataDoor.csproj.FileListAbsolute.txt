@@ -1,0 +1,16 @@
+C:\Users\lervi\source\repos\KataDoor\KataDoor\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lervi\source\repos\KataDoor\KataDoor\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\lervi\source\repos\KataDoor\KataDoor\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\lervi\source\repos\KataDoor\KataDoor\bin\Debug\netcoreapp3.1\KataDoor.deps.json
+C:\Users\lervi\source\repos\KataDoor\KataDoor\bin\Debug\netcoreapp3.1\KataDoor.runtimeconfig.json
+C:\Users\lervi\source\repos\KataDoor\KataDoor\bin\Debug\netcoreapp3.1\KataDoor.runtimeconfig.dev.json
+C:\Users\lervi\source\repos\KataDoor\KataDoor\bin\Debug\netcoreapp3.1\KataDoor.dll
+C:\Users\lervi\source\repos\KataDoor\KataDoor\bin\Debug\netcoreapp3.1\KataDoor.pdb
+C:\Users\lervi\source\repos\KataDoor\KataDoor\obj\Debug\netcoreapp3.1\KataDoor.csproj.AssemblyReference.cache
+C:\Users\lervi\source\repos\KataDoor\KataDoor\obj\Debug\netcoreapp3.1\KataDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lervi\source\repos\KataDoor\KataDoor\obj\Debug\netcoreapp3.1\KataDoor.AssemblyInfoInputs.cache
+C:\Users\lervi\source\repos\KataDoor\KataDoor\obj\Debug\netcoreapp3.1\KataDoor.AssemblyInfo.cs
+C:\Users\lervi\source\repos\KataDoor\KataDoor\obj\Debug\netcoreapp3.1\KataDoor.csproj.CoreCompileInputs.cache
+C:\Users\lervi\source\repos\KataDoor\KataDoor\obj\Debug\netcoreapp3.1\KataDoor.dll
+C:\Users\lervi\source\repos\KataDoor\KataDoor\obj\Debug\netcoreapp3.1\KataDoor.pdb
+C:\Users\lervi\source\repos\KataDoor\KataDoor\obj\Debug\netcoreapp3.1\KataDoor.genruntimeconfig.cache
